@@ -11,7 +11,8 @@ Features
 
 Download
 -------
-The application is inside the Download folder to test.
+You can download the app here: http://lightsnowdev.1x.net/files/DebugShellTest.zip
+The application is also inside the Download folder to test.
 No need to compile yourself.
 
 
